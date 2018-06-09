@@ -2,10 +2,10 @@
 
 A quick implementation of a two-layer LSTM in Keras, inspired by http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 Some outputs when trained on *The Adventures of Sherlock Holmes*, grabbed at http://www.gutenberg.org/:
-* **Sample sequence:** "id i.
+* **Sample sequence:** id i.
 
 “‘hampshire. charming rural place. the copper beeches, five miles on the
-far side of winchest"
+far side of winchest
 
 **Output:**  cotsings,
 and nearly invested to our dog, and he was pericate knowing anything
