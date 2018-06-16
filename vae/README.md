@@ -1,5 +1,5 @@
-## Vanilla variational autoencoders
+## Variational autoencoders
 
-* **Keras VAE implementation**  
+* **Keras vanilla VAE implementation**  
 Walking the latent space after training 50 epochs on MNIST:  
-![](https://github.com/haumann/div-deep-learning/blob/master/latent_space.png)
+![](https://github.com/tahaum/div-deep-learning/blob/master/latent_space.png)
